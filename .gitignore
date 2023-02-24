@@ -1,4 +1,5 @@
-ContentImages/
-StyleIMages/
-.tmp.drivedownload/
-.tmp.driveupload/
+*ContentImages/
+*StyleIMages/
+*.tmp.drivedownload/
+*.tmp.driveupload/
+*img/
